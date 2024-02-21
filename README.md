@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsshad Sivsharan</h1>
 <h3 align="center">🚀 Building Tomorrow's Solutions, One Commit at a Time</h3>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on a **Social Media App**
 
 - 🌱 I’m currently learning **Django,ReactJS,NodeJS**
 
