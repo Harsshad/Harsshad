@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Social Media App**
 
-- 🌱 I’m currently learning **Django,ReactJS,NodeJS**
+- 🌱 I’m currently learning **Django, ReactJS, NodeJS, Firebase**
 
 - 📫 How to reach me **hexadron003@gmail.com**
 
