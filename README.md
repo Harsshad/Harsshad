@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsshad&label=Profile%20views&color=0e75b6&style=flat" alt="harsshad" /> </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **Social Media App and RideMate**
 
-- 🌱 I’m currently learning **Django,ReactJS,NodeJS**
+- 🌱 I’m currently learning **FireBase, Django, Android**
 
-- 📫 How to reach me **hexadron003@gmail.com**
+- 📫 How to reach me **hexadron003@gmail.com, harsshadsivsharan003@gmail.com**
 
 - ⚡ Fun fact **I enjoy coding algorithms as much as I enjoy plotting my next chess move! 🖥️♟️**
 
