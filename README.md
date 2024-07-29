@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FireBase, Django, Android**
 
-- 📫 How to reach me **hexadron003@gmail.com, harsshadsivsharan003@gmail.com**
+- 📫 How to reach me **hexadron003@gmail.com, harsshadsivsharan2003@gmail.com**
 
 - ⚡ Fun fact **I enjoy coding algorithms as much as I enjoy plotting my next chess move! 🖥️♟️**
 
