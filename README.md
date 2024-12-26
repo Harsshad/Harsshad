@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsshad&label=Profile%20views&color=0e75b6&style=flat" alt="harsshad" /> </p>
 
-- 🔭 I’m currently working on **Social Media App and RideMate**
+- 🔭 I’m currently working on **Social Media App and CodeFusion**
 
-- 🌱 I’m currently learning **FireBase, Django, Android**
+- 🌱 I’m currently learning **FireBase, Flutter, Android, Dart**
 
 - 📫 How to reach me **hexadron003@gmail.com, harsshadsivsharan2003@gmail.com**
 
