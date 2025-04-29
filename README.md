@@ -4,65 +4,82 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer%20%F0%9F%9A%80;Full-Stack%20Engineer%20%F0%9F%92%BB;Tech%20Visionary%20%F0%9F%94%A5;Coding%20Creatively%20Everyday%20%F0%9F%8E%A8&center=true&width=500&height=45&color=00BFA6&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer%20🚀;Full-Stack%20Engineer%20💻;Tech%20Visionary%20🔥;Coding%20Creatively%20Everyday%20🎨&center=true&width=500&height=45&color=00BFA6&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsshad&label=Profile%20views&color=0e75b6&style=flat" alt="harsshad" />
 </p>
 
 ---
 
 ### 👨‍💻 &nbsp;About Me
 
-<h4>I’m a passionate Software Developer specializing in Flutter, Firebase & full-stack development with a spark for innovation ✨</h4>
-
 <ul>
-  <li><img src="assets/icons/Telescope.webp" width="24px"> Currently contributing to <a href="https://en.wikipedia.org/wiki/Open_source">open-source Flutter projects</a>.</li>
-  <li><img src="assets/icons/Comet.png" width="24px"> Crafting real-time mobile apps with Dart, Firebase, and Firestore.</li>
-  <li><img src="assets/icons/Spider Web.webp" width="22px"> Web enthusiast – building elegant UIs and responsive apps.</li>
-  <li><img src="assets/icons/Lady Beetle.png" width="22px"> Debugging like a boss (but sometimes creating bugs 😅).</li>
-  <li><img src="assets/icons/Inbox Tray.webp" width="24px"> Reach out: <a href="mailto:harsshad.dev@gmail.com">harsshad.dev@gmail.com</a></li>
+  <li><img src="assets/icons/Telescope.webp" width="24px"> I’m currently working on <strong>Social Media App</strong> and <strong>CodeFusion</strong>.</li>
+  <li><img src="assets/icons/Comet.png" width="24px"> Exploring <strong>Firebase</strong>, <strong>Flutter</strong>, <strong>Android</strong>, and <strong>Dart</strong>.</li>
+  <li><img src="assets/icons/Spider Web.webp" width="22px"> Building responsive UIs and solving real-world problems.</li>
+  <li><img src="assets/icons/Lightning Bolt.webp" width="22px"> Fun Fact: I enjoy coding algorithms as much as I enjoy plotting my next chess move! 🖥️♟️</li>
 </ul>
-
----
-
-### ❤️‍🔥 &nbsp;Love My Work?
-
-<ul>
-  <li><img src="assets/icons/Fire.png" width="22px"> <a href="https://harsshad-portfolio.vercel.app" target="_blank">Check out my Portfolio</a></li>
-  <li><img src="assets/icons/Writing Hand.webp" width="22px"> <a href="https://harsshad-blog.vercel.app" target="_blank">Read my Tech Blogs (soon)</a></li>
-  <li><img src="assets/icons/Hot Beverage.png" width="22px"> <a href="https://buymeacoffee.com/hashborg" target="_blank">Buy me a Coffee</a> (to fuel my code)</li>
-</ul>
-
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=tokyonight" /> &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-github-username&theme=tokyonight&utcOffset=+5.5" />
-</div>
 
 ---
 
 ### 🔗 &nbsp;Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsshad-sivsharan-78b5831b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;
-  <a href="https://www.instagram.com/the_hashborg011/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-  <a href="mailto:harsshad.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<p align="left">
+  <a href="https://linkedin.com/in/harsshad-sivsharan003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsshad-sivsharan003" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/the_hashborg011_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hashborg011_" height="30" width="40" />
+  </a>
+  <a href="mailto:hexadron003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
 
-### 📌 &nbsp;GitHub Insights
+### 🧠 &nbsp;Languages & Tools
 
-[![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=Github&label=Followers&labelColor=444&color=00BFA6)](https://github.com/your-github-username)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=Github&label=Stars&labelColor=444&color=00BFA6)](https://github.com/your-github-username)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=00BFA6)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### ☕ &nbsp;Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/harsshad">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
 </p>
+
+---
+
+### 📈 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsshad&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsshad&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsshad&theme=tokyonight&utcOffset=+5.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsshad&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsshad&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsshad&theme=tokyonight" />
+</div>
