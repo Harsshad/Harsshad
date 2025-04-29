@@ -19,7 +19,7 @@
   <li><img src="assets/icons/Telescope.webp" width="24px"> I’m currently working on <strong>Social Media App</strong> and <strong>CodeFusion</strong>.</li>
   <li><img src="assets/icons/Comet.png" width="24px"> Exploring <strong>Firebase</strong>, <strong>Flutter</strong>, <strong>Android</strong>, and <strong>Dart</strong>.</li>
   <li><img src="assets/icons/Spider Web.webp" width="22px"> Building responsive UIs and solving real-world problems.</li>
-  <li><img src="assets/icons/Lightning Bolt.webp" width="22px"> Fun Fact: I enjoy coding algorithms as much as I enjoy plotting my next chess move! 🖥️♟️</li>
+  <li><img src="assets/icons/Abacus.webp" width="22px"> Fun Fact: I enjoy coding algorithms as much as I enjoy plotting my next chess move! 🖥️♟️</li>
 </ul>
 
 ---
@@ -34,7 +34,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hashborg011_" height="30" width="40" />
   </a>
   <a href="mailto:hexadron003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" height="30"/>
+    <img src="assets/icons/Inbox Tray.webp" width="29px">
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 
 ---
 
-### ☕ &nbsp;Support Me
+### <img src="assets/icons/Hot Beverage.png" width="22px"> &nbsp;Support Me
 
 <p>
   <a href="https://www.buymeacoffee.com/harsshad">
