@@ -34,7 +34,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hashborg011_" height="30" width="40" />
   </a>
   <a href="mailto:hexadron003@gmail.com">
-    <img src="assets/icons/Inbox Tray.webp" width="29px">
+    <img src="assets/icons/Inbox Tray.webp" width="40px">
   </a>
 </p>
 
