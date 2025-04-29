@@ -83,3 +83,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harsshad&show_icons=true&locale=en&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsshad&theme=tokyonight" />
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
